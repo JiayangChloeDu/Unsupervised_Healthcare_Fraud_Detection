@@ -1,2 +1,2 @@
-# Unsupervised_Healthcare_Fraud_Detection
-Apply multiple unsupervised learning algorithms to detect healthcare fraud
+# Unsupervised Healthcare Fraud Detection
+This project delves into the realm of unsupervised learning with a focus on healthcare fraud detection. By leveraging advanced algorithms such as K-Means Clustering, K-Nearest Neighbors (KNN), Principal Component Analysis (PCA), Autoencoders, and Isolation Forest (iForest), the initiative aims to unearth anomalous patterns indicative of fraudulent activities within healthcare data. Through this sophisticated analytical approach, the project seeks to enhance the integrity of healthcare services by identifying and mitigating fraudulent claims, ultimately contributing to the efficiency and reliability of healthcare systems.
